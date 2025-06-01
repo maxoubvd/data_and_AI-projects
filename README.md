@@ -10,3 +10,4 @@ As the name suggests, this repository serves as an ePortfolio showcasing the: St
 - NLP : Firsts steps of NLP
 - Projet Statistiques JO (ESILV A2) : Data Analysis of the Olympic Games before Paris 2024, project made during my second year at ESILV (prepa cycle, not yet in the engineering cycle)
 - Titanic : kaggle project
+- Airbnb : Prediction of Airbnb apartment prices
